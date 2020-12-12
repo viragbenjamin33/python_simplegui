@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 
-layout = [[sg.Text("Hello from Beni")], [sg.Button("OK")]]
+layout = [[sg.Text("Hello from Beni!")], [sg.Button("OK")]]
 
 window = sg.Window("Demo", layout)
 
